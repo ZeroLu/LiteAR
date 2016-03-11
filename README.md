@@ -1,4 +1,4 @@
-#OpenAR
+#LiteAR
 #Intro
 *This project hasn't been officially released yet!*
 
